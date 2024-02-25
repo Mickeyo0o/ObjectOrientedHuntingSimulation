@@ -13,7 +13,12 @@ This project is inspired by the Friday the 13th and Saw movies, simulating a sur
 
 ## Demo
 
-A demo video showcasing the simulation is included in the repository. You can watch it to get a visual understanding of how the simulation works.
+A demo video showcasing the simulation is included in the repository. You can watch it to get a visual understanding of how the simulation works. Or it can be viewed below:
+
+
+https://github.com/Mickeyo0o/ObjectOrientedHuntingSimulation/assets/119634889/3aac90be-3a35-4c06-9040-b8e5a9a9801f
+
+
 
 ## Usage
 
